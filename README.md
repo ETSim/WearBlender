@@ -1,5 +1,5 @@
-# Blender Scenes
-BlenderScenes for learning and teaching the concept for my wear project
+# Wear Blender
+Wear BlenderScenes for learning and teaching the concept for my wear project
 
 - Rotating normals maps in the shaders
 - Dynamics painting in Blender
